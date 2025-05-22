@@ -1,0 +1,27 @@
+state={
+	id=1019
+	name="STATE_1019" #Palatinat
+        manpower = 100000
+
+        state_category = city
+
+        history={
+		owner = FRA
+		victory_points = { 11560 3 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = GER
+		add_core_of = FRA
+	}
+
+
+        
+	provinces={
+		563 3423 3558 11547 11560
+	}
+	
+	local_supplies=0.000
+}

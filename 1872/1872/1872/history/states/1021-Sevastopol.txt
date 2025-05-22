@@ -1,0 +1,16 @@
+state={
+	id=1021
+	name="STATE_1021"
+	provinces={
+		3686 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	history = {
+
+		owner = SRR
+                add_core_of = SRR
+	}
+
+}

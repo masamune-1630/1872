@@ -1,0 +1,26 @@
+state={
+	id=1020
+	name="STATE_1020" #Ostrheinland
+        manpower = 100000
+
+        state_category = city
+
+        history={
+		owner = GER
+		victory_points = { 3512 3 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = GER
+	}
+
+
+        
+	provinces={
+		529 3512 6469 6570 9482
+	}
+	
+	local_supplies=0.000
+}

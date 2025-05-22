@@ -1,0 +1,21 @@
+state=
+{
+	id=1017
+	name="STATE_1017"
+	manpower=455
+	
+	state_category = pastoral
+	history={
+		owner = ITA
+		victory_points = { 13376 10 }
+		buildings = {
+			infrastructure = 3
+		}
+		add_claim_by = SPR
+	}
+	provinces={
+		13376
+	}
+
+	local_supplies=0.0 
+}
