@@ -1,0 +1,15 @@
+state={
+	id=1023
+	name="STATE_1023"
+	provinces={
+		468 470 545 3404 3406 3467 3515 3538 6491 6525 6551 6564 6588 9487 9513 9538 9549 11457 11472 11473 11482 11524 11537 11538 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	history = {
+
+		owner = SRR
+                add_core_of = SRR
+	}
+}

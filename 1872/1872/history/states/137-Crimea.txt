@@ -1,0 +1,16 @@
+state={
+	id=137
+	name="STATE_137"
+	provinces={
+		705 3722 6704 6724 9677 9680 9718 11649 
+	}
+	manpower=1061607
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=10.000
+	history = {
+
+		owner = SRR
+                add_core_of = SRR
+	}
+}
