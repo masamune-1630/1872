@@ -1,0 +1,16 @@
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		564 589 3397 3524 3574 6444 6488 6549 9486 9524 9547 11445 11533 
+	}
+        history = {
+		owner = GER
+                add_core_of = GER
+
+	}
+	manpower=3798235
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=15.000
+}
